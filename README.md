@@ -1,1 +1,1 @@
-Design-pattern-final-assignment-
+Design pattern in OOP final assignment
